@@ -4,7 +4,7 @@
 
 Three ways to scrape websites with Python, side by side: **requests + BeautifulSoup**, **Playwright** for JavaScript-rendered pages, and a **Scrapy** spider for full crawls. They run against [books.toscrape.com](https://books.toscrape.com) and [quotes.toscrape.com](https://quotes.toscrape.com), which are sandbox sites built for scraping practice.
 
-Written by [Mehraz Hossain Rumman](https://mehrazrumman.github.io/rumman-portfolio/), a Python software engineer and web scraping / automation developer (Scrapy contributor).
+Written by [Mehraz Hossain Rumman](https://mehrazrumman.github.io/), a Python software engineer and web scraping / automation developer (Scrapy contributor).
 
 ## Which tool when?
 
@@ -52,7 +52,7 @@ Check a site's terms and `robots.txt`, keep request rates low, don't collect per
 
 I build custom Python scrapers, data pipelines and workflow automation (Scrapy, Playwright, Celery, Django, FastAPI). I also tutor Python.
 
-- Portfolio: https://mehrazrumman.github.io/rumman-portfolio/
+- Portfolio: https://mehrazrumman.github.io/
 - LinkedIn: https://www.linkedin.com/in/mehraz-rumman/
 - Email: mehrazrumman@gmail.com
 
